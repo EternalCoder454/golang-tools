@@ -1,0 +1,5 @@
+# compiled binary
+/homelab-backup
+# encrypted archives + local config (never commit)
+*.hlbk
+backup.json

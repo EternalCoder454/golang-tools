@@ -1,0 +1,2 @@
+# compiled binary — build with `go build -o homelab-ca .`
+/homelab-ca
